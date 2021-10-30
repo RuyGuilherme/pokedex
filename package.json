@@ -1,0 +1,26 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "projeto Poké-Agenda",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "nodemon": "^2.0.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuyGuilherme/pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuyGuilherme/pokedex/issues"
+  },
+  "homepage": "https://github.com/RuyGuilherme/pokedex#readme"
+}
